@@ -17,9 +17,10 @@ order.
 To use:
 
 1. Run the `install` script or manually copy `Sort by Date Added and
-   Album.applescript` to `~/Library/iTunes/Scripts`.
+   Album.applescript` to `~/Library/iTunes/Scripts/Sort by Date Added and
+   Album.applescript`.
 
-2. Then, select some tracks in your library and select `Sort by Date Added and
+2. Select some or all tracks in your library and select `Sort by Date Added and
    Album` from the scripts menu in iTunes.
 
 3. Make the "Grouping" column visible and sort in descending order.
